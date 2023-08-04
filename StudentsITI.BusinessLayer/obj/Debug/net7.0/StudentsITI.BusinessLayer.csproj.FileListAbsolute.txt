@@ -1,0 +1,15 @@
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\bin\Debug\net7.0\StudentsITI.BusinessLayer.deps.json
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\bin\Debug\net7.0\StudentsITI.BusinessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\bin\Debug\net7.0\StudentsITI.BusinessLayer.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\bin\Debug\net7.0\StudentsITI.DataAccessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\bin\Debug\net7.0\StudentsITI.DataAccessLayer.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.csproj.CopyComplete
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\refint\StudentsITI.BusinessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\StudentsITI.BusinessLayer.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.BusinessLayer\obj\Debug\net7.0\ref\StudentsITI.BusinessLayer.dll

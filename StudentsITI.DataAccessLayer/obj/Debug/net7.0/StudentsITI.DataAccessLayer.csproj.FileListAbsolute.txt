@@ -1,0 +1,12 @@
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.AssemblyInfo.cs
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\bin\Debug\net7.0\StudentsITI.DataAccessLayer.deps.json
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\bin\Debug\net7.0\StudentsITI.DataAccessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\bin\Debug\net7.0\StudentsITI.DataAccessLayer.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\refint\StudentsITI.DataAccessLayer.dll
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\StudentsITI.DataAccessLayer.pdb
+C:\Users\JOO TECH\Desktop\ITI Tasks\Advanced C# Tasks\StudentsITI.DataAccessLayer\obj\Debug\net7.0\ref\StudentsITI.DataAccessLayer.dll
